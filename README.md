@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **raman.sheshka@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raman-sheshka-phd-4484872b/](https://www.linkedin.com/in/raman-sheshka-phd-4484872b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/roman-sheshka/](https://www.linkedin.com/in/roman-sheshka/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
