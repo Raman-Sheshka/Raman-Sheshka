@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roma</h1>
-<h3 align="center">A passionate Data Scientist and Physicist</h3>
+<h3 align="center">A passionate Machine Learning Engineer and Physicist</h3>
 
 - 💬 Ask me about **general physics, statistical mechanics**
 
